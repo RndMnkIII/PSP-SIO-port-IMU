@@ -19,4 +19,5 @@ This repository contains two project folders:
 - Gcc Make project for the PSP DevKit cross compiler that generates the EBOOT.PBP file 
   for copy to the PSP memory stick PSP\GAME150\celshading folder with the lightmap.raw
   resource file. The SDK for Windows can be downloaded from:
-  https://sourceforge.net/projects/minpspw/
+  https://sourceforge.net/projects/minpspw/. Requires a PSP homebrew enabled console with
+  at least a CFW 4.01 M33.
