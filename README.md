@@ -17,11 +17,10 @@ desoldering the cables from the control board and soldering the required TX, RX,
 Sparkfun level shifter as showed in the diagram before.
 
 Images from the adapter that i've build:
-![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
-![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
-![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
-![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
-![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
+![Img01](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/sio/PSP_HEADSET.jpg)
+![Img02](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/sio/img1.jpg)
+![Img03](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/sio/img2.jpg)
+![Img04](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/sio/20180720_214425.jpg)
 
 This repository contains two project folders:
 - Arduino sketch with the code for the Teensy 3.2 board. Install the Kalman library
