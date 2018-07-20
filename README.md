@@ -15,6 +15,7 @@ to the PSP SIO 2.5v logic level using a sparkfun logic level shifter.
 The adapter for PSP SIO port can build using an official Sony PSP 1000 Series White Headset & Remote Control,
 desoldering the cables from the control board and soldering the required TX, RX, GND , +2.5V cables to the
 Sparkfun level shifter as showed in the diagram before.
+http://mc.pp.se/psp/phones.xhtml
 
 Images from the adapter that i've build:
 ![Img01](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/sio/PSP_HEADSET.jpg)
