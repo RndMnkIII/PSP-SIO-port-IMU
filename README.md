@@ -13,7 +13,9 @@ to the PSP SIO 2.5v logic level using a sparkfun logic level shifter.
 ![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
 
 This repository contains two project folders:
-- Arduino sketch with the code for the Teensy 3.2 board.
+- Arduino sketch with the code for the Teensy 3.2 board. Install the Kalman library
+  from https://github.com/TKJElectronics/KalmanFilter in the Arduino\libraries folder.
+  
 - Gcc Make project for the PSP DevKit cross compiler that generates the EBOOT.PBP file 
   for copy to the PSP memory stick PSP\GAME150\celshading folder with the lightmap.raw
   resource file.
