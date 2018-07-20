@@ -9,5 +9,7 @@ The UART2 port is connected to the PSP console SIO port using a bidirectional
 voltage level converter between for converting from 3.3v Teensy 3.2 logic level
 to the PSP SIO 2.5v logic level using a sparkfun logic level shifter.
 (https://www.sparkfun.com/products/12009).
+
+https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png
  
 
