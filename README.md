@@ -12,6 +12,17 @@ to the PSP SIO 2.5v logic level using a sparkfun logic level shifter.
 
 ![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
 
+The adapter for PSP SIO port can build using a official Sony PSP 1000 Series White Headset & Remote Control,
+desoldering the cables from the control board and soldering the required TX, RX, GND , +2.5V cables to the
+Sparkfun level shifter as showed in the diagram before.
+
+Images from the adapter that i've build:
+![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
+![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
+![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
+![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
+![Schematic](https://github.com/RndMnkIII/PSP-SIO-port-IMU/blob/master/diagram.png)
+
 This repository contains two project folders:
 - Arduino sketch with the code for the Teensy 3.2 board. Install the Kalman library
   from https://github.com/TKJElectronics/KalmanFilter in the Arduino\libraries folder.
