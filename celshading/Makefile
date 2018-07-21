@@ -1,5 +1,5 @@
 TARGET = celshading
-OBJS = lightmap.o celshading.o ../common/callbacks.o
+OBJS = lightmap.o celshading.o callbacks.o
 
 INCDIR =
 CFLAGS = -G0 -Wall -O2
