@@ -11,7 +11,7 @@ LDFLAGS =
 LIBS= -lpspdebug -lpsphprm_driver  -lpsprtc   -lpspvfpu -lpspgum -lm -lpspgu 
 
 EXTRA_TARGETS = EBOOT.PBP
-PSP_EBOOT_TITLE = Celshading Sample
+PSP_EBOOT_TITLE = Celshading Sample SIO MPU-6050
 
 PSPSDK=$(shell psp-config --pspsdk-path)
 include $(PSPSDK)/lib/build.mak
